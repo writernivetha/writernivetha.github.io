@@ -1,0 +1,17 @@
+{
+  "name": "PORTFOLIO",
+  "title": "Nandhagopal Ezhilmaran",
+  "version": "1.1.0",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.3",
+    "font-awesome": "^4.6.3",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-header": "^2.0.7",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "3.3.1"
+  }
+}
